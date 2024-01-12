@@ -1,4 +1,5 @@
 language.fullname=<color:#FFC300><b>Slovenščina
+language.id=si_SI
 
 # Translation Gui
 gui.translatorgui.title=<color:#8b8592><b>Izbirnik jezika

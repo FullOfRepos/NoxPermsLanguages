@@ -1,4 +1,5 @@
 language.fullname=<color:#FFC300><b>English
+language.id=en_US
 
 gui.language.title=<color:#8b8592><b>Language Selector
 gui.translatorgui.changelanguageto=<color:#8b8592>Change your language to:<color:#D2691E> English
