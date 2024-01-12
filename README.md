@@ -1,4 +1,4 @@
-# ReefRealm - Languages Support
+# NoxPerms - Languages Support
 
 ## Description
 
@@ -9,7 +9,7 @@ Welcome to ReefRealm, a Minecraft server dedicated to providing an immersive and
 If you're interested in helping us translate ReefRealm into different languages, follow these steps:
 
 1. **Sign CLA (Corporate License Agreement)**: To protect the rights of the translations and ensure a standardized approach, we require contributors to sign our CLA.
-[Sign here](https://cla-assistant.io/ReefRealm/ServerLanguages)
+[Sign here](https://cla-assistant.io/NoximityLLC/NoxPermsLanguages)
 
 2. **Create a New Branch**: Start by creating a new branch with the name of your language. For example, if you're translating into English (United States), your branch name should be `en_US - English - YourUsername`. This format includes the language code, the full language name, and your Minecraft username.
 
@@ -27,4 +27,4 @@ If you have any questions or need assistance, please feel free to contact us by 
 
 ## Statistics
 
-[![CLA assistant](https://cla-assistant.io/readme/badge/ReefRealm/ServerLanguages)](https://cla-assistant.io/ReefRealm/ServerLanguages)
+[![CLA assistant](https://cla-assistant.io/readme/badge/NoximityLLC/NoxPermsLanguages)](https://cla-assistant.io/NoximityLLC/NoxPermsLanguages)

@@ -1,0 +1,9 @@
+language.fullname=<color:#FFC300><b>Slovenščina
+
+# Translation Gui
+gui.translatorgui.title=<color:#8b8592><b>Izbirnik jezika
+gui.translatorgui.changelanguageto=<color:#8b8592>Spremeni jezik v:<color:#D2691E> Slovenščino<b>
+gui.action.language.changed=<color:#8b8592>Jezik je bil spremenjen na:<color:#FFC300> Slovenščino<b>
+gui.translatorgui.clicktochnage=<color:#D2691E>Klikni da zamenjaš svoj jezik!
+
+missingpermission=<color:#de1e15>Nimaš dovoljenja za to komando!

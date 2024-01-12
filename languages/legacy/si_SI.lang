@@ -1,0 +1,9 @@
+language.fullname=&6&lSlovenščina
+
+# Translation Gui
+gui.translatorgui.title=&7&lIzbirnik jezika
+gui.translatorgui.changelanguageto=&7Spremeni jezik v:&6 Slovenščino
+gui.action.language.changed=&7Jezik je bil spremenjen na:&6 Slovenščino
+gui.translatorgui.clicktochnage=&eKlikni da zamenjaš svoj jezik!
+
+missingpermission=&cNimaš dovoljenja za to komando!

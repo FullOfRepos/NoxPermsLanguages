@@ -1,0 +1,8 @@
+language.fullname=&6&lEnglish
+
+gui.translatorgui.title=&7&lLanguage Selector
+gui.translatorgui.changelanguageto=&7Change your language to:&6 English
+gui.action.language.changed=&7Language has been changed to:&6 English
+gui.translatorgui.clicktochnage=&eClick to change your language!
+
+missingpermissio=&cYou don't have permission to use this command!
