@@ -1,8 +1,13 @@
 language.fullname=<color:#FFC300><b>English
 
-gui.translatorgui.title=<color:#8b8592><b>Language Selector
+gui.language.title=<color:#8b8592><b>Language Selector
 gui.translatorgui.changelanguageto=<color:#8b8592>Change your language to:<color:#D2691E> English
 gui.action.language.changed=<color:#8b8592>Language has been changed to:<color:#FFC300> English<b>
 gui.translatorgui.clicktochnage=<color:#D2691E>Click to change your language!
-
+gui.page.next.name=<color:#8b8592>Next Page
+gui.page.next.lore=<color:#8b8592>Click to go to the next page!
+gui.page.prev.name=<color:#8b8592>Previous Page
+gui.page.prev.lore=<color:#8b8592>Click to go to the previous page!
+gui.gamemenus.connectoff=<color:#de1e15>Server is offline!
+gui.gamemenus.connecting=<color:#de1e15>Connecting...
 missingpermission=<color:#de1e15>You don't have permission to use this command!
