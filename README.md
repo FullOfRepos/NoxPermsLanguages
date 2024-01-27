@@ -2,6 +2,7 @@
 
 ## Description
 
+
 Welcome to ReefRealm, a Minecraft server dedicated to providing an immersive and enjoyable gaming experience for players from all around the world. To make our server accessible to a wider audience, we need your help in translating it into multiple languages.
 
 ## How to Support Us by Translating the Server
